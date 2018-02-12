@@ -1,0 +1,19 @@
+> git config
+> git init
+> git status
+> git add *.txt
+> git add index.html
+> git commit -m "Message"
+> git rm index.html
+> git branch branchname
+> git checkout branchname
+> git merge branchname
+> git log
+> git revert
+> git push -f
+> git push -u
+> git remote add origin URL
+> git remote -v
+> git pull
+> touch index.html
+> vim index.html
